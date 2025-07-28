@@ -1,3 +1,10 @@
-# 👋 Hi there!
+<h1 align="center">양 지 수 | Ji Soo Yang</h1>
+<p align="center">
+  🔗 Explore my LinkedIn
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id/)
+<p align="center">
+  <a href="www.linkedin.com/in/jisoo-yang-6b779b285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
