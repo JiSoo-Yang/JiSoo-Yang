@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/jisoo-yang-6b779b285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/jisoo-yang-6b779b285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
